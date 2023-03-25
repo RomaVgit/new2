@@ -1,4 +1,12 @@
+body {
+  background-color: black;
+}
+
 .hello {
   font-size: 70px;
   color: rgb(255, 2, 200);
+}
+
+.lorem {
+  color: #fff;
 }
