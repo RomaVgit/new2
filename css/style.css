@@ -1,17 +1,4 @@
-h1 {
-  font-size: 90px;
-}
-
-p {
-  font-size: 30px;
-  color: rgb(204, 73, 139);
-  line-height: 2;
-}
-
-h1 {
-  color: rgb(50, 181, 111);
-}
-
-.rog {
-  color: blue;
+div {
+  font-size: 70px;
+  color: rgb(255, 2, 200);
 }
