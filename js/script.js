@@ -14,3 +14,4 @@ let numRandom = function (ofTimes) {
 }
 
 numRandom(5);
+console.log('eee');
