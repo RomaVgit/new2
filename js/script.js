@@ -1,3 +1,6 @@
+const one = document.querySelectorAll('.after')[0];
+const twoo = one.innerHTML;
+one.innerHTML = 'www';
 
 let numRandom = function (ofTimes) {
 	let num = 0;
@@ -10,4 +13,4 @@ let numRandom = function (ofTimes) {
 	}
 }
 
-numRandom(3);
+numRandom(5);
