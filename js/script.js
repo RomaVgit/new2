@@ -1,3 +1,4 @@
+console.log('www');
 
 
 let numRandom = function (ofTimes) {
