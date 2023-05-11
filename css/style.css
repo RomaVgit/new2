@@ -38,6 +38,11 @@ p {
 	color: rgb(42, 255, 42);
 }
 
+.colorI {
+	height: 100px;
+	width: 200px;
+}
+
 .after {
   color: rgb(20, 255, 3);
   font-size: 60px;
