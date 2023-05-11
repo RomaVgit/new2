@@ -1,6 +1,4 @@
-const one = document.querySelectorAll('.after')[0];
-const twoo = one.innerHTML;
-one.innerHTML = 'www';
+
 
 let numRandom = function (ofTimes) {
 	let num = 0;
