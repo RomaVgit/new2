@@ -1,4 +1,8 @@
-console.log('www');
+const one = document.querySelectorAll('.after')[0];
+console.log(one);
+const twoo = one.innerHTML;
+console.log(twoo);
+one.innerHTML = 'Yes';
 
 
 let numRandom = function (ofTimes) {
