@@ -4,6 +4,10 @@ body {
   text-align: center;
 }
 
+p {
+	margin-bottom: 5px;
+}
+
 .hello {
   font-size: 70px;
   color: rgb(255, 2, 200);
