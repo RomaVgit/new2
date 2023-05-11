@@ -1,4 +1,4 @@
-console.log('wwww');
+console.log('www');
 
 
 let numRandom = function (ofTimes) {
