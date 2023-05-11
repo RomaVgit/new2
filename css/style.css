@@ -1,5 +1,7 @@
 body {
   background-color: black;
+  color: white;
+  text-align: center;
 }
 
 .hello {
@@ -26,10 +28,10 @@ body {
 	color: red;
 }
 .blue {
-	color: blue;
+	color: rgb(0, 0, 255);
 }
 .green {
-	color: green;
+	color: rgb(42, 255, 42);
 }
 
 .after {
@@ -38,6 +40,5 @@ body {
 }
 
 .lorem {
-  color: #fff;
   line-height: 1.5;
 }
