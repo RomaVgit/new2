@@ -24,6 +24,12 @@
 		<img src="img/flex/avatar_3.jpg" alt="">
 	</div>
 
+	<div class="input num">
+		<div class="out">Out</div>
+		<input type="number" class="i-1" autofocus placeholder="input num" name="num" value="">
+		<button class="button-1">Send</button>
+	</div>
+
 	<form action="#" method="post" enctype="multipart/form-data">
 		<div class="input text">
 			<input placeholder="User name" type="text" name="username" value="">
@@ -89,12 +95,20 @@
 		quae.
 	</div>
 
-	<details>
+	<details open>
 		<summary>Summary</summary>
 		<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum delectus, commodi neque perspiciatis excepturi
 			amet dolorem, qui consectetur perferendis corporis explicabo, labore cupiditate? Fugiat, enim sit. Eos dolorum
 			accusamus harum!</p>
 	</details>
+
+	<fieldset>
+		<legend>особисті дані</legend>
+		<div>
+			<label for="name">ім'я</label>
+			<input id="name" name="name" type="text">
+		</div>
+	</fieldset>
 
 	<script src="js/script.js"></script>
 </body>
