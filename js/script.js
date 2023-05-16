@@ -23,3 +23,6 @@ function myClick() {
 	};
 
 }
+
+const w = window.innerWidth;
+document.querySelector('.new2').innerHTML = `Window width: ${w}`;
