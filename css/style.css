@@ -30,6 +30,13 @@ p {
 	gap: 20px;
 }
 
+@media (max-width: 550px) {
+	.flex {
+		flex-direction: column;
+		align-items: center;
+	}
+}
+
 .i-1 {
 	font-weight: bolder;
 	font-size: 60px;
