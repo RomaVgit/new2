@@ -25,4 +25,4 @@ function myClick() {
 }
 
 const w = window.innerWidth;
-document.querySelector('.new2').innerHTML = `Window width: ${w} <br/><br/> ${navigator.userAgent} <br/><br/> ${navigator.platform} <br/><br/> ${location.href}`;
+document.querySelector('.new2').innerHTML = `Window width: ${w} <br/><br/> ${navigator.userAgent} <br/><br/> ${navigator.platform} <br/><br/> ${}`;

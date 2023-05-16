@@ -46,13 +46,20 @@ p {
 	margin-bottom: 10px;
 }
 
+.test {
+	font-size: 80px;
+	color: yellow;
+}
+
 .red {
+	font-size: 50px;
 	color: red;
 }
 .blue {
 	color: rgb(0, 0, 255);
 }
 .green {
+	font-size: 50px;
 	color: rgb(42, 255, 42);
 }
 
