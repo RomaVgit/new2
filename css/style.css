@@ -79,6 +79,18 @@ p {
 	color: rgb(42, 255, 42);
 }
 
+.submit {
+	font-size: 50px;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+.reset {
+	font-size: 50px;
+	padding: 10px;
+	border-radius: 10px;
+}
+
 .colorI {
 	height: 100px;
 	width: 200px;
