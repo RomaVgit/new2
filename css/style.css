@@ -24,31 +24,40 @@ p {
 	margin-bottom: 10px;
 }
 
+.flex {
+	display: flex;
+	justify-content: center;
+	gap: 20px;
+}
+
 .i-1 {
-	font-size: 20px;
+	font-weight: bolder;
+	font-size: 60px;
 	text-align: center;
-	height: 40px;
-	width: 110px;
+	height: 100px;
+	width: 300px;
+	border-radius: 10px;
 }
 
 .button-1 {
-	font-size: 20px;
+	font-size: 60px;
 	text-align: center;
-	height: 40px;
-	width: 60px;
-}
-
-.out {
-	font-size: 50px;
-}
-
-.input {
-	margin-bottom: 10px;
+	width: 150px;
+	border-radius: 10px;
 }
 
 .test {
 	font-size: 80px;
+	color: rgb(0, 255, 191);
+}
+
+.out {
+	font-size: 50px;
 	color: yellow;
+}
+
+.input {
+	margin-bottom: 10px;
 }
 
 .red {
